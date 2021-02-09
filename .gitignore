@@ -1,2 +1,4 @@
 result.png
 .ipynb_checkpoints/
+*.db
+
